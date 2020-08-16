@@ -10,10 +10,17 @@ This repository contains the MATLAB implementation of the Centre Folding Strateg
 
 As this is a DIRDH strategy, the embedding outputs 2 stego images. 
 
+
+## Usage Instructions
+
 *Please cite this paper in your work if you are using this code. The citation file is provided in the repository.*
 
+This code is written in MATLAB and, depending on the version you are using, might require the Image Processing Toolbox. 
+
+
+
 ## Files in this repository
----
+
 This repository contains the following files:
 
 1. `CentreFoldingStrategyMain.m` - This file contains the basic code to run the given embedding functions for a grayscale cover image. It generates two stego images and gives their PSNR values. It will also show how many pixels were skipped to avoid underflow and overflow problems.
