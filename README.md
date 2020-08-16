@@ -1,8 +1,9 @@
 # Dual-image-based reversible data hiding method using center folding strategy
-### *Original Authors:* Tzu-Chuen Lu; Jhih-Huei Wu; Chun-Chih Huang.
-### Published in Signal Processing, Volume 115, October 2015, Pages 195-213
+*Authors of the research paper:* Tzu-Chuen Lu; Jhih-Huei Wu; Chun-Chih Huang.
 
-### *Contributors:* 
+Published in Signal Processing, Volume 115, October 2015, Pages 195-213
+
+## Contributors
 - Shounak Shastri: <shounak.shastri@gmail.com>
 ---
 
