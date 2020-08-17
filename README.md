@@ -4,7 +4,7 @@
 Published in Signal Processing, Volume 115, October 2015, Pages 195-213
 
 ## Contributors
-- Shounak Shastri: [email](shounak.shastri@gmail.com)
+- Shounak Shastri: <shounak.shastri@gmail.com>
 ---
 
 This repository contains the MATLAB implementation of the Centre Folding Strategy (CFS) based Dual Image Reversible Data Hiding (DIRDH) scheme. 
