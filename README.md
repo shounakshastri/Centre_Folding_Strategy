@@ -18,7 +18,7 @@ As this is a DIRDH strategy, the embedding outputs 2 stego images.
 
 This code is written in MATLAB and, depending on the version you are using, might require the Image Processing Toolbox. 
 
-
+Clone and download the zip file. Extract all the files in your MATLAB folder.
 
 ## Files in this repository
 
