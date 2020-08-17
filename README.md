@@ -4,7 +4,7 @@
 Published in Signal Processing, Volume 115, October 2015, Pages 195-213
 
 ## Contributors
-- Shounak Shastri: <shounak.shastri@gmail.com>
+- Shounak Shastri: [email](shounak.shastri@gmail.com)
 ---
 
 This repository contains the MATLAB implementation of the Centre Folding Strategy (CFS) based Dual Image Reversible Data Hiding (DIRDH) scheme. 
@@ -17,8 +17,6 @@ As this is a DIRDH strategy, the embedding outputs 2 stego images.
 *Please cite this paper in your work if you are using this code. The citation file is provided in the repository.*
 
 This code is written in MATLAB and, depending on the version you are using, might require the Image Processing Toolbox. 
-
-
 
 ## Files in this repository
 
